@@ -1,4 +1,3 @@
-# MenuSimples
-Menu Simples feito com HTML5 e CSS3
-
-Simples treino para aperfeicoar as tecnicas Basicas de HTML5 e CSS3.
+# Simple Menu
+Simple Menu made with HTML5 and CSS3
+Simple training to perfect Basic HTML5 and CSS3 techniques.
